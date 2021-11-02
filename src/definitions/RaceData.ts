@@ -1,0 +1,34 @@
+export default interface RaceData {
+	name: string
+	source: string
+	page: string
+	size: string
+	speed: string
+	ability: string
+	traitTags: string
+	languageProficiencies: string
+	entries: string
+	otherSources: string
+	age: string
+	soundClip: string
+	hasFluff: string
+	hasFluffImages: string
+	darkvision: string
+	resist: string
+	additionalSpells: string
+	heightAndWeight: string
+	subraces: string
+	skillProficiencies: string
+	lineage: string
+	creatureTypes: string
+	toolProficiencies: string
+	conditionImmune: string
+	_copy: string
+	feats: string
+	srd: string
+	weaponProficiencies: string
+	additionalSources: string
+	immune: string
+	armorProficiencies: string
+	vulnerable: string
+}
